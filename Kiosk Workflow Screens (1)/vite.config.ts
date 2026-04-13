@@ -1,3 +1,8 @@
+export default defineConfig({
+  base: '/DigitalSign/',
+})
+
+
 import { defineConfig } from 'vite'
 import path from 'path'
 import tailwindcss from '@tailwindcss/vite'
